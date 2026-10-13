@@ -15,7 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250"/>
 
-🎓 Third-Year CSE Student — Dr. D. Y. Patil Technical Campus, Pune (CGPA: 8.08)  
+🎓 Final-Year CSE Student — Dr. D. Y. Patil Technical Campus, Pune (CGPA: 8.47)  
 🐍 Python-first developer focused on structured backend systems  
 📊 Strong interest in data analytics & anomaly detection  
 <!--
